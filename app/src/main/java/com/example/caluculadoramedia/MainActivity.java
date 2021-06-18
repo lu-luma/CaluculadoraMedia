@@ -10,7 +10,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import org.w3c.dom.Text;
-
+//Luiza Maria da Silva e Laura Neri Thomaz da Silva
 public class MainActivity extends AppCompatActivity {
     //atributos relacionados aos obtos da interface
     private EditText txtNome;
